@@ -11,6 +11,11 @@ A simple Bash script to analyze the NGINX access log and generate useful insight
 
 ---
 
+# 🔗 Project URL
+```
+https://roadmap.sh/projects/nginx-log-analyser
+```
+
 ## 📁 File Structure
 
 ```bash
